@@ -1,5 +1,5 @@
 ## Conhecimentos Báicos 📖
 
--Python 
--Java
--HTML e CSS
+- Python 
+- Java
+- HTML e CSS
