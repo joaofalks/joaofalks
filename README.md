@@ -1,1 +1,4 @@
-### João Falkembach
+### João Falkembach  👨‍🎓 
+
+- Python
+- Java 
